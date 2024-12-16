@@ -1,7 +1,7 @@
 [![Discord](https://img.shields.io/badge/Join-Discord-blue)](https://discord.gg/5gesjDfDBr)
 
 # Echokraut-Server
-This is the backend All-in-One solution for my FFXIV - [Dalamud](https://github.com/goatcorp/Dalamud) Plugin. 
+This is the backend All-in-One solution for [Echokraut](https://github.com/RenNagasaki/Echokraut), my FFXIV - [Dalamud](https://github.com/goatcorp/Dalamud) Plugin. 
 It's goal is to enable the user to use [AllTalk_TTS](https://github.com/erew123/alltalk_tts) without learning the tool inside out. It installs it, configures it for FFXIV use and is able to start/stop it with a simple mouseclick.
 
 ## Dislaimer: 
